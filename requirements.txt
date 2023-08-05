@@ -78,7 +78,7 @@ jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 kiwisolver==1.4.4
-langchain==0.0.25
+langchain==0.0.252
 langchainplus-sdk==0.0.17
 langsmith==0.0.19
 loguru==0.7.0
@@ -129,7 +129,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==12.0.1
 pycparser==2.21
-pydantic==1.10.9
+pydantic==1.10.12
 pydeck==0.8.1b0
 Pygments==2.14.0
 PyJWT==2.7.0
