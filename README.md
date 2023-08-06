@@ -42,5 +42,7 @@ To install and use the MultiPDF Chat App, please follow these steps:
 5. The application will launch in your default web browser, displaying the user interface.
 
 ## Contributed by-
-Gaytri Sran
-LinkedIn - [@GaytriSran](https://www.linkedin.com/in/gaytri-sran-gs14/)
+
+ Gaytri Sran
+
+ - LinkedIn - [@GaytriSran](https://www.linkedin.com/in/gaytri-sran-gs14/)
