@@ -36,7 +36,7 @@ executing==1.2.0
 faiss-cpu==1.7.4
 fastjsonschema==2.16.3
 filelock==3.12.2
-Flask==2.3.2
+Flask==2.2.5
 fonttools==4.38.0
 fqdn==1.5.1
 frozenlist==1.3.3
