@@ -10,6 +10,8 @@ The PDF-QueryMaster App is a Python application that allows you to chat with mul
 ![PDF-QueryMaster App Diagram](./docs/PDF-LangChain.jpg)
 _Disclaimer: We have just used this for reference we haven't used the exact same infrastructure._
 
+-----------
+
 The application follows these steps to provide responses to your questions:
 
 1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
