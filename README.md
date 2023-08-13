@@ -25,7 +25,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install and use the MultiPDF Chat App, please follow these steps:
+To install and use the PDF-QueryMaster App, please follow these steps:
 
 1. Clone the repository to your local machine.
 
